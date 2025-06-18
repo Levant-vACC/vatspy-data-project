@@ -18503,7 +18503,7 @@ TEH-6W|Tehran 6 West|TEH_6W|TEH-6W
 TEH-7|Tehran 7|TEH_7|TEH-7
 OJAC|Amman||OJAC
 OKAC|Kuwait||OKAC
-OLBB|Beirut|OLBA|OLBB
+OLBB|Beirut||OLBB
 OMAE|U.A.E||OMAE
 OOMM|Muscat||OOMM
 OPKR|Karachi|OPKR|OPKR
@@ -18517,8 +18517,8 @@ OPLR|Lahore (Islamabad)|ISB|OPLR
 OPLR|Lahore|OPLR-S|OPLR
 OPLR|Lahore|OPLR-W|OPLR
 ORBB|Baghdad||ORBB
-ORBB-N|Baghdad North|ORBB_N|ORBB-N
-ORBB-S|Baghdad South|ORBB_S|ORBB-S
+ORBB-N|Baghdad North|ORBB_U|ORBB-N
+ORBB-S|Baghdad South|ORBB_2|ORBB-S
 OSTT|Damascus|OSDI|OSTT
 OYSC|Sanaa||OYSC
 PAZA|Anchorage||PAZA
